@@ -1,0 +1,7 @@
+module example
+
+export add/2
+export mul/2
+
+let add x y = x + y
+let mul x y = x * y
